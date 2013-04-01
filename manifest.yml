@@ -1,0 +1,9 @@
+---
+name : left4jekyllbootstrap
+description :  "A installation package of the theme 'left' for Jekyllstrap."
+git_url : git://github.com/feng-gao/left4jekyllbootstrap.git
+source_url : https://github.com/feng-gao/left4jekyllboostrap
+author:
+  name : Feng Gao
+  email : fenggao@me.com
+  website : http://feng-gao.github.com/
